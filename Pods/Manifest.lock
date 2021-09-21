@@ -1,0 +1,28 @@
+PODS:
+  - AP_PaySDK (2.4.36):
+    - Material
+  - Material (3.1.8):
+    - Material/Core (= 3.1.8)
+  - Material/Core (3.1.8):
+    - Motion (~> 3.1.1)
+  - Motion (3.1.3):
+    - Motion/Core (= 3.1.3)
+  - Motion/Core (3.1.3)
+
+DEPENDENCIES:
+  - AP_PaySDK
+
+SPEC REPOS:
+  trunk:
+    - AP_PaySDK
+    - Material
+    - Motion
+
+SPEC CHECKSUMS:
+  AP_PaySDK: 2fc7ea911085e5c4882829b4565b0df589d141f5
+  Material: a2a3f400a3b549d53ef89e56c58c4535b29db387
+  Motion: cf1e060e489f6661126374d5c60dbd2ed991605c
+
+PODFILE CHECKSUM: 2c772e353538ae55b733fe4d681fafd73b15ca3d
+
+COCOAPODS: 1.11.2

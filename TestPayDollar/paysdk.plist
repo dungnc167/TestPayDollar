@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SDK_RSA_PublicKey</key>
+	<string>MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWtZ+BPZu5tqSTcwjeFFowSi2nMdmqvjQXkSvW8MtgSJ1w9qPyXHBj2DYhU/tBv9UWOIHEmDC8vYpN3PxnS4NYdeLIlCrYpl6Rti9duujYZ530Bl+T+mQGBPebiSdxYYPpKp9VFvvrnHljRKNi0yM3YBfpVTBnXL8mkKPC1I1XOy4JkGj1bKkrFnzlMjP7TKAH5QC2D7EOJEKkpgc9NMY6wEQhfChO7fCVZeoQ/ZpdaHNPL35uUlAjdAj2nmdgoCyi3tteuruSIpFjkMsp33cHM09Z/ccFliv3tc26bgfcJwwQSZJinCcNLBgVCazaYf2r5hKrAh6Gb8ln6VBVLd6wIDAQAB</string>
+	<key>Domain</key>
+	<string></string>
+</dict>
+</plist>
